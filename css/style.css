@@ -174,21 +174,21 @@ main {
 }
 
 .notify_box {
-  margin-left: 20%;
+  /* margin-left: 20%;
   margin-right: 20%;
   border-radius: 15px;
   padding: 15.5px;
-  height: 200px;
+  height: 200px; */
   display: flex;
   align-items: center;
   flex-direction: column;
-  z-index: 20;
+  /* z-index: 20; */
   background-color: #ffffff;
   color: black;
-  position: absolute;
+  /* position: absolute;
   margin-top: -5px;
   width: 60%;
-  border: 2px solid #f4f4f4;
+  border: 2px solid #f4f4f4; */
 }
 
 .notify_box > h4 {
